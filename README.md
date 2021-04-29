@@ -19,7 +19,7 @@
 
 👤 **Psyro**
 
-* Website: https://psyro.me/ || https://psyro.ninja/
+* Website: https://psyro.de/ || https://psyro.ninja/
 * GitHub: [@psyro770](https://github.com/psyro770)
 
 ## Show your support
